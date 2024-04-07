@@ -1,0 +1,52 @@
+.home_image{
+    background-image: url('cat.png'); /* Path to your background image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Set height to cover the entire viewport */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow: auto;
+}
+
+
+.home_image h1 {
+    color: #ffffff; /* Text color */
+    font-size: 4rem;
+    font-style: bold;
+    margin-bottom: 20px;
+}
+
+.home_image h2 {
+    color: #ffffff; /* Text color */
+    font-size: 3rem;
+    font-style: bold;
+    margin-bottom: 20px;
+}
+
+.heading {
+    color: hsl(44, 100%, 66%);
+}
+
+.colorchange{
+    color: black;
+}
+
+/*#111111;*/
+
+
+.row-cols-1
+{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.serv_heading{
+    margin-left: 5%;
+}
+
+.btn-outline-warning{
+    color: black;
+}
