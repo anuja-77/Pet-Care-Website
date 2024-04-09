@@ -1,8 +1,8 @@
 .home_image{
-    background-image: url('cat.png'); /* Path to your background image */
+    background-image: url('cat.png'); 
     background-size: cover;
     background-position: center;
-    height: 100vh; /* Set height to cover the entire viewport */
+    height: 100vh; 
     display: flex;
     flex-direction: column;
     justify-content: center;
